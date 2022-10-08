@@ -1,0 +1,24 @@
+mod1/ mundo 3/ Aula 6/ python
+
+Tipos primitivos e saída de dados
+
+int= 7, 3, 56, 789, -98
+float= 4.5, 0.6598,-15.487
+bool= false, true
+str= 'ola', '7.5'
+print
+
+para não haver concatenação ao inves da soma de inteiros
+temos que categorizar por tipos primitivos como (int)
+por exemplo:
+
+n1= int 89
+n2= int 21
+s = n1+n2
+
+resultado 110
+
+se nao colocasse int seria 8921
+
+# pra deixar comentario em python
+

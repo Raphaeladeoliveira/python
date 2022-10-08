@@ -1,0 +1,30 @@
+aula 12 mundo 2 
+
+desafio emprestimo
+
+o programa vai perguntar o valor da casa
+o salario do comprador
+e em quantos anos ele vai pagar
+
+calcule o valor da prestação mensal sabend que ela nao
+vai passar de 30% do salario enatão o emprestimo
+ sera negado 
+[Feito]
+
+desafio
+alistamento
+leia o ano de nascimento de um jovem e informe de acordo
+com a sua idade
+se ele ainda vai se alistar
+se é hora de se akistar
+se ja passou da hora
+deve mostrar tambem o tempo que passou ou que falta
+[feito]
+
+desafio media
+mostrar se ficou aprovado em recuperação
+ou reprovado
+[feito]
+
+
+[todos usando aninhada if /elif]

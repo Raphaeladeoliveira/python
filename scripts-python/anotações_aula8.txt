@@ -1,0 +1,103 @@
+aula 08 python mundo 1
+
+Utilizando módulos
+
+bibliotecas
+exemplo:
+
+comida 
+pao, cuscuz, soja, feijao, carne, arroz
+
+doce
+goiabada, sorvete, pudim, paçoca, balas
+
+bebida
+Água, suco, refrigerante, café, leite
+
+import > bebida >(todas as bebidas disponiveis)
+from > doce >import >pudim (um elemento especifico)
+______________________________________________________
+
+math(significa matematica)
+
+import > math > (toda biblioteca math)
+
+from > math > import > sqrt (apenas um item da bilblioteca)
+
+{
+ceil > (arredondar pra cima)
+floor >(arredondar Pra baixo)
+tronc >(eliminar da virgula pra frente)
+pow >(potencia)
+sqrt > (raiz quadrada)
+factorial >(fatora)
+}
+
+ex :
+import math
+num = int(input('digite um numero: ')
+raiz = math.sqrt(num)
+
+=============
+ex :
+from math import sqrt
+num = int(input('digite um numero: ')
+raiz = sqrt(num)
+
+=============
+ ex: com  a biblioteca (random) gerando numero aleaorio
+import random
+num = random.randint(1, 10)
+print(num)
+
+entao aparecera numeros aleatorios entre 1 e 10
+
+==============
+
+colocando emoji
+ja instalei o package apenas colocar assim:
+
+:red_heart:
+tela: coração vermelho aparece
+
+
+===============
+desafio016
+arredondar pra baixo um numero
+
+desafio 017
+sorteio de alunos 4 alunos
+mostrando o nome na tela
+
+desafio 018
+ler o nome dos 4 alunos
+e mostre em ordem sorteada
+
+desafio 019
+reproduzindo o audio de mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

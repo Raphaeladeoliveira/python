@@ -1,0 +1,14 @@
+aula 5 mod1 mundo3 python
+
+usando alguns comandos
+
+.format(variavel) <- usando no print
+ exemplo:
+nome = 'Raphaela'
+print('seu nome é {x}'.format(nome))
+
+tela:
+
+Seu nome é {Raphaela}
+
+-----------------------------------------------

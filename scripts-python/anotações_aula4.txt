@@ -1,0 +1,33 @@
+pyton mundo 3 mod1
+(aula 4)
+anotações importantes
+
+escrevendo palavras na tela
+ 
+print('oi!') <- dentro de aspas e parenteses e o print é o uma função
+
+para numeros seria
+
+print(2+4) tera resultado 6 mostrado em tela 
+ sem aspas(aspas só para mensagens)
+
+input <- quando quer interagir com usuario exemplo:
+
+nome = input("qual o seu nome? ")
+tela:Qual o seu nome?
+----------- <- usuario digita qual o nome
+idade = input (qual sua idade? )
+tela:Qual sua idade?
+----------- <- usuario responde a idade
+
+print(nome,idade)
+
+tela:
+vava 29
+desafio 01 
+pedir o nome e desejar boas vindas ao usuario
+desafio 02
+pedir data mes e ano de nascimento e mostrar na tela
+desafio 03
+pedir dois numeros somar eles e mostrar na tela
+ (feito os 3 desafios)

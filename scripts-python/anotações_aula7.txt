@@ -1,0 +1,112 @@
+Python3 mod 1 aula 07
+(Aritmétcos)
+
+Ordem de precedencia
+
+1- ()
+2- **
+3- * / // %
+4- + -
+
+ex: 
+
+   5+3*2 <- primeiro multiplica
+  -------
+     11
+**============================================**
+ex:
+
+   3*5+4**2 <- Primeiro a potenciação
+   ---------   segundo multiplicação e por ultimo
+       31      adição
+
+**============================================**
+ex:
+
+    3*5(5+4)**2  <-Parentese primeiro total 9
+   -------------   potencia em seguida dando 9 ao 2 =81
+       96          depois multiplicação dando 3*81 =243
+
+=======================================================
+Desafio 05
+Faça um programa que leia um numero inteiro e mostre na tela o seu
+sucessor e seu antecessor (feito)
+[feito]
+Desafio 06
+Crie um algoritmo que leia um numero e mostre o seu dobro triplo
+e raiz quadrada
+[feito]
+Desafio 07
+Desenvolva um programa que leia as duas notas do aluno
+calcule e mostre a média
+[feito]
+Desafio 08
+Escreva um programa que leia um valor em metros e o exiba convertido
+em centimetros e milimetros
+[feito]
+Desafio 09
+Faça um programa que leia um numero inteiro qualquer e mostre
+na tela a sua tabuada
+[feito]
+Desafio 10
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira
+ e mosttre quantos dolares ela pode comprar
+considere:
+us1.00 =R$3.27
+[feito]
+Desafio 11
+Faça um progra que leia a altura e largura e a altura de uma parede
+em metros, calcule a sua area e a quantidade de tinta necessaria
+para pinta- la sabendo que cada litro de tinta, pinta uma area de 2m2.
+[feito]
+Desafio 12
+Faça um algoritmo que leia o preço de um produto e mostre seu
+novo preço, com 5% de desconto[feito]
+
+Desafio 13
+Faça um algoritmo que leia o salario de um funcionario e mostre seu
+ novo salario com 15% de aumento
+[feito]
+Desafio 14
+Escreva um programa que converta uma temperatura digitando em
+graus Celsius e converta para graus fahrenheit
+
+Desafio 15
+Escreva um programa que pergunte a quantidade de km percorridos
+por um carro alugado e a quantidade de dias pelos quais ele foi alugado
+e a quantidade de dias pelos quais ele foi alugado calcule o preço a 
+pagar sabendo que o carro custa 60.0 por dias e 0.15 por KM rodado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

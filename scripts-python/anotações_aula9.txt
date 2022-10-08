@@ -1,0 +1,8 @@
+aula 09 python mundo 01
+
+fatiamento da string
+
+curso em video python
+01234567891011121314151617181920
+(ou seja os esp~ços entre as palavras contam)
+
